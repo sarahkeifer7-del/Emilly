@@ -125,7 +125,7 @@ elif menu == "⛰️ Montanhas":
     st.markdown("""
     ### 🏔️ As montanhas são essenciais para nós:
     
-    -  São as **torres de água** do mundo — abrigam quase todo o gelo do planeta
+    -  São as **torres de água** do mundo que abrigam quase todo o gelo do planeta
     - 🌡️ Influenciam o clima e os ventos
     - 🏠 São lar de povos tradicionais e espécies únicas
     - ⛰️ Representam desafio, beleza e força
