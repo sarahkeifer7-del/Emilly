@@ -112,7 +112,7 @@ elif menu == "🌊 Oceanos":
     ### 🐢 Uma verdade fascinante:
     Apenas cerca de **5% dos oceanos** do mundo foram explorados. 
     Isso significa que sabemos mais sobre a superfície da Lua 
-    do que sobre os oceanos da nossa própria casa! 🌊🔭
+    do que sobre os oceanos da nossa própria casa! 
     """)
     
     st.image("https://images.unsplash.com/photo-1583212292454-1fe622965b47?w=600", caption="Vida marinha colorida", use_container_width=True)
